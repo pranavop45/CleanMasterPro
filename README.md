@@ -1,6 +1,5 @@
-<img width="772" height="772" alt="icon" src="https://github.com/user-attachments/assets/c9db279f-3b84-4832-b394-7b1a28b43e94" />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pranavop45/CleanMasterPro/main/assets/icon.png" width="120" />
+  <img width="120" height="120" alt="icon" src="https://github.com/user-attachments/assets/c9db279f-3b84-4832-b394-7b1a28b43e94" />
 </p>
 
 <h1 align="center">🚀 CleanMaster Pro</h1>
