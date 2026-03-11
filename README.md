@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="360" height="360" alt="cleanmaster-icon" src="https://github.com/user-attachments/assets/0d732de3-4fc7-4b36-96b9-06857805c162" />
+  <img width="60" height="60" alt="cleanmaster-icon" src="https://github.com/user-attachments/assets/0d732de3-4fc7-4b36-96b9-06857805c162" />
 </p>
 z
 <h1 align="center">🚀 CleanMaster Pro</h1>
