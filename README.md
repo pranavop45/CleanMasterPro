@@ -10,7 +10,7 @@ z
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v2.0.0-blue.svg" />
+  <img src="https://img.shields.io/badge/version-v3.1.0-blue.svg" />
   <img src="https://img.shields.io/badge/platform-Windows-0078D6.svg" />
   <img src="https://img.shields.io/badge/license-Pro-green.svg" />
 </p>
@@ -100,6 +100,7 @@ Built with **Python + CustomTkinter**, designed to feel like a **real profession
 
 👉 **Download:**  
 https://github.com/pranavop45/CleanMasterPro/releases
+https://cleanmasterpro.in/
 
 ---
 
