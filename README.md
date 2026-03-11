@@ -19,11 +19,11 @@ z
 
 ## ✨ What is CleanMaster Pro?
 
-**CleanMaster Pro** ek **premium Windows system optimizer** hai jo aapke PC ko:
-- ⚡ Fast banata hai  
-- 🧹 Junk files clean karta hai  
-- 🧠 RAM optimize karta hai  
-- 🎮 Gaming & performance improve karta hai  
+**CleanMaster Pro** is a **premium Windows system optimizer** that helps you:
+- ⚡ Fast 
+- 🧹 Clean Junk Files 
+- 🧠 RAM optimize 
+- 🎮 Gaming & performance improve 
 
 Built with **Python + CustomTkinter**, designed to feel like a **real professional Windows app**.
 
