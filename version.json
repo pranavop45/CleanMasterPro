@@ -1,3 +1,11 @@
 {
-  "latest_version": "3.5.0"
+  "version": "3.5.0",
+  "mandatory_after_days": 3,
+  "website_url": "https://cleanmasterpro.in",
+  "title": "CleanMaster Pro v3.6.0",
+  "changelog": [
+    "New Startup Optimizer",
+    "Cleaner improvements",
+    "UI fixes"
+  ]
 }
